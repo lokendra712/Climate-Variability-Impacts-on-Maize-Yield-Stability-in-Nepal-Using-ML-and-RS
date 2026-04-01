@@ -15,7 +15,7 @@ Output (300 DPI PNG in figures/):
     fig5_shap.png
     fig6_stability_biplot.png
 
-Authors: Lokendra Paudel et al. (2025)
+Authors: Lokendra Khatri et al. (2026)
 """
 
 import numpy as np
