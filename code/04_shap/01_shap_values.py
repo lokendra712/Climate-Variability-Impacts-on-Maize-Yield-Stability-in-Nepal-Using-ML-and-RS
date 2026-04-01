@@ -13,7 +13,7 @@ Outputs:
   figures/fig_shap_dependence_rain.png
   figures/fig_shap_dependence_tmax.png
 
-Authors: Lokendra Paudel et al. (2025)
+Authors: Lokendra Khatri et al. (2026)
 """
 
 import numpy as np
