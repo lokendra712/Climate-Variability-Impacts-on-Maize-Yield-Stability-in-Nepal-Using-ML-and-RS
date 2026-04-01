@@ -9,9 +9,9 @@
 [![Status](https://img.shields.io/badge/Status-Under%20Review-yellow)]()
 
 > **Manuscript submitted to:** *Computers and Electronics in Agriculture* (Elsevier, Q1, IF ≈ 8.3)  
-> **Authors:** Lokendra Paudel¹*, [Co-author 2]², [Co-author 3]³  
-> ¹ IAAS, Tribhuvan University, Bharatpur, Chitwan, Nepal  
-> *Corresponding author: lokendrapaudel@example.com
+> **Author:** Lokendra Khatri¹*  
+> ¹ Gokuleshwor Agriculture and Animal Science College, Institute of Agriculture and Animal Science, Tribhuvan University, Baitadi, Nepal  
+> *Corresponding author: lokendrakhatri712@gmail.com
 
 ---
 
@@ -201,9 +201,9 @@ If you use this code or data in your research, please cite:
 @article{paudel2025maize,
   title   = {Data-Driven Assessment of Climate Variability Impacts on Maize Yield
              Stability in Nepal Using Machine Learning and Remote Sensing},
-  author  = {Paudel, Lokendra and [Co-author 2] and [Co-author 3]},
+  author  = {Khatri, Lokendra},
   journal = {Computers and Electronics in Agriculture},
-  year    = {2025},
+  year    = {XXXX},
   volume  = {XXX},
   pages   = {XXXXXX},
   doi     = {10.xxxx/xxxxxx}
@@ -230,8 +230,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 📬 Contact
 
-**Lokendra Paudel**  
-Institute of Agriculture and Animal Science (IAAS), Tribhuvan University  
-Bharatpur, Chitwan, Nepal  
-📧 lokendrapaudel@example.com  
-🔗 [GitHub](https://github.com/YOUR_USERNAME) | [ResearchGate](https://www.researchgate.net)
+**Lokendra Khatri**  
+Gokuleshwor Agriculture and Animal Science College, Institute of Agriculture and Animal Science, Tribhuvan University, 
+Baitadi, Nepal  
+📧 lokendrakhatri712@gmail.com  
+🔗 [GitHub](https://github.com/lokendra712) | [ResearchGate](https://www.researchgate.net/profile/Lokendra-Khatri-3?ev=hdr_xprf) | [LinkedIn](https://www.linkedin.com/in/lokendra-khatri-nepal/)
