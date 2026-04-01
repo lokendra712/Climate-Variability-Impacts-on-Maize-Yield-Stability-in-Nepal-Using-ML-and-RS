@@ -21,7 +21,7 @@ Output:
   outputs/predictions_test_set.csv
   outputs/best_model_rf.pkl
 
-Authors: Lokendra Paudel et al. (2025)
+Authors: Lokendra Khatri et al. (2026)
 """
 
 import numpy as np
