@@ -16,7 +16,7 @@ Datasets:
 Output:
   data/processed/nepal_maize_panel_1990_2022.csv
 
-Authors: Lokendra Paudel et al. (2025)
+Authors: Lokendra Khatri et al. (2026)
 """
 
 import pandas as pd
