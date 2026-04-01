@@ -13,7 +13,7 @@
 #   outputs/mk_trend_results.csv
 #   outputs/mk_trend_results.html  (formatted table)
 #
-# Authors: Lokendra Paudel et al. (2025)
+# Authors: Lokendra Khatri et al. (2026)
 # =============================================================================
 
 library(trend)       # Mann-Kendall + Sen's slope
