@@ -1,0 +1,24 @@
+# R package dependencies
+# Install with: Rscript -e 'install.packages(readLines("requirements_R.txt"))'
+
+metan          # Multi-environment trial analysis (Eberhart-Russell)
+trend          # Mann-Kendall test and Sen's slope
+SPEI           # Standardized Precipitation-Evapotranspiration Index
+mice           # Multiple Imputation by Chained Equations
+tidyverse      # Data manipulation and visualization
+ggplot2        # Publication-quality plots
+sf             # Simple features for spatial data
+tmap           # Thematic maps
+terra          # Spatial raster data
+exactextractr  # Fast raster extraction
+lubridate      # Date handling
+patchwork      # Combine ggplot figures
+corrplot       # Correlation matrix visualization
+ggpubr         # Publication-ready ggplot2 figures
+car            # Variance Inflation Factor (VIF)
+lmtest         # Regression diagnostics
+sandwich       # Robust standard errors
+plm            # Panel data models
+stargazer      # Regression tables
+knitr          # R Markdown
+rmarkdown      # Document generation

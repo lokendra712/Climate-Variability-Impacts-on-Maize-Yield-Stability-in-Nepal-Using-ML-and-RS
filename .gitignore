@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.rds
+*.RDS
+
+# Data files (raw — too large for Git; use DVC or Zenodo)
+data/raw/*.csv
+data/raw/*.nc
+data/raw/*.tif
+data/raw/*.shp
+data/raw/*.dbf
+data/raw/*.shx
+data/raw/*.prj
+
+# Processed data (regenerate from scripts)
+data/processed/*.csv
+
+# Model artifacts (large)
+outputs/*.pkl
+outputs/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Credentials / API keys — NEVER commit these
+.env
+*.pem
+credentials.json
+secrets.yaml
+cdsapirc
