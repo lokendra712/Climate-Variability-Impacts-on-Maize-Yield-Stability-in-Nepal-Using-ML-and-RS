@@ -14,7 +14,7 @@
 #   outputs/stability_anova_table.csv
 #   figures/fig6_er_stability_biplot.png
 #
-# Authors: Lokendra Paudel et al. (2025)
+# Authors: Lokendra Khatri et al. (2026)
 # =============================================================================
 
 suppressPackageStartupMessages({
